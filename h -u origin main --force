@@ -1,0 +1,42 @@
+[33mcommit 8ad531d3df0cd06513afefcde2a0a68eea8d12a5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: David Clements <david.ethan.clements@gmail.com>
+Date:   Tue Nov 19 23:32:27 2024 +0000
+
+    Move CSVs to Git LFS
+
+[33mcommit 27028ee0731804378d4d9498bd2b312d3674c361[m
+Author: David Clements <david.ethan.clements@gmail.com>
+Date:   Tue Nov 19 23:31:56 2024 +0000
+
+    Track CSV files with Git LFS
+
+[33mcommit 4bddbab4f77e37350b792b916bf38a2d277d5bd4[m
+Merge: ee07bfc a3ff228
+Author: David Clements <david.ethan.clements@gmail.com>
+Date:   Tue Nov 19 23:14:45 2024 +0000
+
+    Initial commit with project files
+
+[33mcommit ee07bfc7b7e6f70a23ba9f915e22ed83b5384624[m
+Author: David Clements <david.ethan.clements@gmail.com>
+Date:   Tue Nov 19 23:01:21 2024 +0000
+
+    Initial commit with project files
+
+[33mcommit a3ff22842f4dee2efd474346976cdf5c57656fda[m
+Author: David Clements <141910715+daviddmvnm@users.noreply.github.com>
+Date:   Mon Oct 14 14:48:45 2024 +0100
+
+    Add files via upload
+
+[33mcommit 8600f774e04ce271615d39b5b27cb62f2337abcc[m
+Author: David Clements <141910715+daviddmvnm@users.noreply.github.com>
+Date:   Mon Oct 14 14:48:26 2024 +0100
+
+    Delete EDA.ipynb
+
+[33mcommit 93002e895c3c16430d41aa2c2300d474738d70be[m
+Author: David Clements <141910715+daviddmvnm@users.noreply.github.com>
+Date:   Sun Oct 13 12:13:40 2024 +0100
+
+    Add files via upload

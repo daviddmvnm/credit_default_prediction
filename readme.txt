@@ -1,6 +1,7 @@
 ###Credit Risk Prediction Project
 Welcome to the Credit Risk Prediction Project, a student project aimed at creating a model to assess loan default risk. 
 This project is built within a Docker environment for easy setup and consistency across various machines.
+https://hub.docker.com/repository/registry-1.docker.io/davidc44/credit_risk_project_image/general
 
 ###Project Overview
 This project involves a comprehensive analysis and modeling approach to predict credit risk. It includes:
